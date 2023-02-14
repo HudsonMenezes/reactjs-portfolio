@@ -1,33 +1,45 @@
-import WorkIm from "../assets/projects/workImg.jpeg";
-import RealEst from "../assets/projects/realestate.jpg";
+import SacolaoVirtual from "../assets/projects/SacolaoVirtual.png";
+import FlowersByRose from "../assets/projects/FlowersByRose.png";
+import SuculentaCia from "../assets/projects/SuculentaCia.png";
+import RelogioDigital from "../assets/projects/RelogioDigital.png";
+import GraphEasy from "../assets/projects/GraphEasy.png";
+import CriptoCurrency from "../assets/projects/CriptoCurrency.png";
 
 export const data = [
   {
     id: 1,
-    name: "React JS Application",
-    image: WorkIm,
-    github: "",
-    live: "",
+    name: "Suculenta & Cia",
+    image: SuculentaCia,
+    github: "https://github.com/HudsonMenezes/suculentaecia-ecommerce",
+    live: "https://hudsonmenezes.github.io/suculentaecia-ecommerce/",
   },
+
   {
     id: 2,
-    name: "React JS Application",
-    image: RealEst,
-    github: "",
-    live: "",
+    name: "Flowers By Rose",
+    image: FlowersByRose,
+    github: "https://github.com/HudsonMenezes/pagina-htmlcss-flowersbyrose",
+    live: "https://hudsonmenezes.github.io/pagina-htmlcss-flowersbyrose/",
   },
   {
     id: 3,
-    name: "React JS Application",
-    image: WorkIm,
-    github: "",
-    live: "",
+    name: "Relógio Digital",
+    image: RelogioDigital,
+    github: "https://github.com/HudsonMenezes/relogio_digital",
+    live: "https://hudsonmenezes.github.io/relogio_digital/",
   },
   {
     id: 4,
-    name: "React JS Application",
-    image: RealEst,
-    github: "",
-    live: "",
+    name: "Graph Easy",
+    image: GraphEasy,
+    github: "https://github.com/HudsonMenezes/AmazingGraph-devchallenge",
+    live: "https://hudsonmenezes.github.io/AmazingGraph-devchallenge/",
+  },
+  {
+    id: 5,
+    name: "Criptomoedas Tracker",
+    image: CriptoCurrency,
+    github: "https://github.com/HudsonMenezes/cryptocurrency-tracker-api",
+    live: "https://hudsonmenezes.github.io/cryptocurrency-tracker-api/",
   },
 ];
