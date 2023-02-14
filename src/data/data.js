@@ -4,6 +4,7 @@ import SuculentaCia from "../assets/projects/SuculentaCia.png";
 import RelogioDigital from "../assets/projects/RelogioDigital.png";
 import GraphEasy from "../assets/projects/GraphEasy.png";
 import CriptoCurrency from "../assets/projects/CriptoCurrency.png";
+import TodoList from "../assets/projects/TodoList.png";
 
 export const data = [
   {
@@ -41,5 +42,12 @@ export const data = [
     image: CriptoCurrency,
     github: "https://github.com/HudsonMenezes/cryptocurrency-tracker-api",
     live: "https://hudsonmenezes.github.io/cryptocurrency-tracker-api/",
+  },
+  {
+    id: 6,
+    name: "Todo List em ReactJS",
+    image: TodoList,
+    github: "https://github.com/HudsonMenezes/todolist-react",
+    live: "https://hudsonmenezes.github.io/todolist-react/",
   },
 ];
