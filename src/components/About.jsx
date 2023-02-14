@@ -14,16 +14,20 @@ const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold">
-            <p>
-              Oi. Eu me chamo Hudson, prazer em conhecê-lo. Fique à vontade!
-            </p>
+            <p>Oi, prazer em conhecê-lo. Fique à vontade!</p>
           </div>
           <div>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam
-              accusamus aliquam nulla. Eligendi impedit consectetur eum mollitia
-              unde explicabo, repellendus blanditiis quam facilis inventore
-              expedita asperiores, nam error possimus qui!
+              Tenho 32 anos, resido atualmente Duque de Caxias/RJ e sempre fui
+              apaixonado por tecnologia, informática e Desenvolvimento Web.
+              Atualmente estou cursando Bacharelado em Engenharia de Software
+              pelo Centro Universitário Anhanguera Pitágoras Ampli.
+            </p>
+            <br />
+            <p>
+              Tenho a leitura e caminhada como Hobbies, um para melhorar e
+              aprimorar meu conhecimento e outro para saúde, pois não só de
+              códigos vive o desenvolvedor, não é mesmo?
             </p>
           </div>
         </div>

@@ -14,11 +14,11 @@ export const Home = () => {
           Sou Desenvolvedor Fullstack.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[800px]">
-          Sou um desenvolvedor fullstack e sou especialista em construir,
-          desenvolver (e algumas vezes prototipar) sistemas web excepcionais que
-          vão alavancar negócios. Atualmente estou focado em desenvolver
-          aplicações web fullstack responsivas.
-          <div>
+          Sou um desenvolvedor fullstack, especialista em frontend, com o
+          propósito de construir e desenvolver soluções web que tem o potencial
+          de alavancar seu negócio. Dou vida a aplicações responsivas e
+          otimizadas para o melhor desempenho em motores de busca.
+          <div className="mt-8">
             <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600">
               Ver trabalhos{" "}
               <span className="group-hover:rotate-90 duration-300">
