@@ -119,10 +119,11 @@ export const Navbar = () => {
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
-              href="/"
+              href="https://drive.google.com/file/d/1NtNnUVb_NptENP_Bsn9i2jKzpQtA31fs/view?usp=share_link"
+              target="_blank"
               className="flex justify-between items-center w-full text-gray-300"
             >
-              Resume <BsFillPersonLinesFill size={30} />
+              Currículo <BsFillPersonLinesFill size={30} />
             </a>
           </li>
         </ul>
