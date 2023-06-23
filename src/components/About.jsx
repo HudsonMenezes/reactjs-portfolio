@@ -18,16 +18,18 @@ const About = () => {
           </div>
           <div>
             <p>
-              Tenho 32 anos, resido atualmente Duque de Caxias/RJ e sempre fui
-              apaixonado por tecnologia, informática e Desenvolvimento Web.
-              Atualmente estou cursando Bacharelado em Engenharia de Software
-              pelo Centro Universitário Anhanguera Pitágoras Ampli.
+              Morador do Rio de Janeiro, sempre fui apaixonado por tecnologia,
+              informática e Desenvolvimento Web. Atualmente estou cursando
+              Bacharelado em Engenharia de Software pelo Centro Universitário
+              Anhanguera Pitágoras Ampli para continuar ampliando meus
+              conhecimentos, além disso, recentemente concluí o bootcamp
+              Desenvolvedor Web Fullstack pela Gama Academy.
             </p>
             <br />
             <p>
-              Tenho a leitura e caminhada como Hobbies, um para melhorar e
-              aprimorar meu conhecimento e outro para saúde, pois não só de
-              códigos vive o desenvolvedor, não é mesmo?
+              Tenho a leitura e a caminhada como Hobbies, um para melhorar e
+              aprimorar meu conhecimento de mundo e outro para saúde, pois não
+              só de códigos vive o desenvolvedor, não é mesmo?
             </p>
           </div>
         </div>
